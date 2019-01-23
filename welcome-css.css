@@ -1,0 +1,52 @@
+body{
+	
+	font-family: verdama,Geojio,serif;
+	font-size: 14px;
+	background-color: #FAF0E6;
+
+}
+
+#header{
+     background-color:#797d7f;
+     height: 40px;
+     
+     border-radius: 5px;
+     text-align: center;
+     padding: 15px;
+    
+     border:solid 2px #000;
+     
+     color:  #f7f9f9 ;
+     font-weight: bold;
+font-family: Castellar;
+
+}
+
+.main{
+     height: 470px;
+}
+
+table{
+     padding: 50px;
+     width: 350px;
+     height: 350px;
+     border:2px solid black;
+     background-color: #FFFFF0;
+     
+     }
+
+#footer{
+     background-color: grey;
+     height: 40px;
+     
+     border-radius: 5px;
+     text-align: center;
+     padding: 10px;
+     margin: 10px;
+     border:solid 2px #000; 
+     
+     margin-top: 10px;
+     align-content: center;
+     
+}
+	
